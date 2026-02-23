@@ -1,0 +1,3 @@
+Title: particle trapping and dynamics in magnetospheric dipole field
+
+I plan to model a dipole field and show pole-to-pole particle trapping, as is relevant to earth's magnetosphere. I will use PlasmaPy's MagneticDipole and Particle Tracker tools. I got this idea after seeing a simulation plot showing particle trapping in an x-line configuration in an unpublished paper by Jan Egedal. Upon further investigation, this idea is very similar to Track Visualisation of Charged Particles in a Dipole Magnetic Field done in COMSOL by B. Polychronopulos and Trajectories of charged particles trapped in Earth’s magnetic field by M. Kaan Ozturk.
