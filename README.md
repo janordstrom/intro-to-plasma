@@ -5,7 +5,7 @@ behavior. It allows users to either launch a random assortment of particles or t
 allows for graphing of various quantities of interest, including the trajectory of the particle in a 3D plane, the trajectory in each direction as a function of 
 time, the particle velocity as a function of time in each direction, and the mirror force. 
 
-PlasmaExploration.docx is a report of the process of writing ParticleTrappingDipoleNotebook.ipynb, along with more details on the sanity checks included in the code
+PlasmaExploration.pdf is a report of the process of writing ParticleTrappingDipoleNotebook.ipynb, along with more details on the sanity checks included in the code
 and the results found.
 
 project-proposal.txt is a copy of the proposal for this project, including a small literature review and the initial plans for the project.
